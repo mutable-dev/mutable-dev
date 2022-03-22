@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutable-dev
 - 👀 I’m interested in defi, nfts, solana, and the EVM
-- 🌱 I’m currently learning everything I can about smart contract development and the future of finance
+- 🌱 I’m currently working on smart contract development and the future of finance
 - 💞️ I’m looking to collaborate on dexes, lending markets, and other areas within defi
 - 📫 How to reach me mutabledev@protonmail.com
 
