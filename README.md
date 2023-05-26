@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutable-dev
-- 👀 I’m interested in defi, nfts, solana, and the EVM
-- 💞️ I’m looking to collaborate with engineers, designers, and community members on dexes, lending markets, and other areas within defi
+- 👀 I like defi
+- 💞️ I’m looking to collaborate with engineers, designers, and community members
 - 📫 How to reach me mutabledev@protonmail.com
 
 <!---
